@@ -16,11 +16,11 @@ A Lebanese <b color="red">Full Stack Web Developer</b> Student at <b>@coditech</
 <img src="https://media.giphy.com/media/l1sYeVKi65h9AblTjx/giphy.gif" width="35px" alt="hey"/>
 <p>
 <table widht="100%">
-<tr>
+<tr width="100%">
 <td>
 <img width="250px" src="https://www.pngall.com/wp-content/uploads/4/I-Am-Groot-PNG-Free-Download.png" />
 </td>
-<td>
+<td width="75%">
 
 # ABOUT GROOT
 - Full Stack Web Developer @coditech
