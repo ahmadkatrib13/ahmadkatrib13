@@ -20,7 +20,7 @@ A Lebanese <b color="red">Full Stack Web Developer</b> Student at <b>@coditech</
 <td>
 <img width="250px" src="https://www.pngall.com/wp-content/uploads/4/I-Am-Groot-PNG-Free-Download.png" />
 </td>
-<td width="75%">
+<td width="80%">
 
 # ABOUT GROOT
 - Full Stack Web Developer @coditech
